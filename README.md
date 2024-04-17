@@ -16,3 +16,4 @@ advertisement_data.json: Contains scraped advertisement data.
 sidebar_snapshot.png: Screenshot of the sidebar advertisement.
 image_<ID>.png: Image files for each advertisement, named with a unique ID.
 
+#-Pakage.js and Package-lock.json will automatically created when you create a npm init module and install the packages
